@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="second.css">
+</head>
+<body>
+    
+    <img src="img/banner.png" alt="" width="10%" height="100px" onmouseover="fun()">
+    <img src="img/background.jpg" alt="" width="10%" height="100px" onmouseover="fun()">
+    <!-- <img src="img/about.jpg" alt="" width="10%" height="100px" onmouseover="fun()">
+    <img src="img/banner2.jpg" alt="" width="10%" height="100px" onmouseover="fun()"> -->
+
+    <div><img src="img/banner.png" alt="" width="10%" height="50%" id="in">
+    </div>
+    
+    <script>
+        let inn = document.getElementById('in');
+
+        function fun(){
+            inn.src="img/banner.png"
+        }
+        function fun(){
+            inn.src="img/background.jpg"
+        }
+    </script>
+
+
+    <script src="second.js"></script>
+</body>
+</html>
