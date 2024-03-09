@@ -9,3 +9,20 @@ function validate(){
         return false;
     }
 }
+
+function valid(){
+
+    if (name==) 
+    {
+        alert("please enter a name")
+        return false;
+        
+    }
+    else(contact==)
+    {
+        alert("please enter ur conact")
+        return false;
+
+    }
+    
+}
