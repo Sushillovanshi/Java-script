@@ -9,31 +9,18 @@
      crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <img src="./img/banner.png" alt=""><br><br>
+    <img src="./img/banner.png" alt="" width="50%"><br><br>
+    <p>Price</p>
+    <p id="count2">0</p>
     <button onclick="inc();">+</button>
     <h1 id="count">0</h1>
         <button onclick="dec();">-</button>
     
-        <i class="fa-solid fa-cart-shopping"></i><sup id="count">0</sup>
+        <i class="fa-solid fa-cart-shopping"><sup id="count1">0</sup></i>
 
         
         
-        <script>
-            let c = document.getElementById('count');
-let v = 0;
-function inc(){
-    v++;
-    c.innerHTML=v;
-}
-
-function dec(){
-    if(v>0){
-    v--;
-    c.innerHTML=v;
-    }
-    
-    }
-        </script>
+       
     
     <script src="four.js"></script>
 </body>
