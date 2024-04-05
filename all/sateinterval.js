@@ -18,9 +18,23 @@
     
 // },1000 );
 
-let a = setInterval(()=>{document.write(0)},100)
-setInterval(() => {
-    let a = new Number();
-    console.log(a)
-}, interval);
-// let b = document.getElementById('stop');
+// let a = setInterval(()=>{document.write(0)},100)
+// setInterval(() => {
+//     let a = new Number();
+//     console.log(a)
+// }, interval);
+// // let b = document.getElementById('stop');
+
+
+// ====================================================================================
+
+let = a;
+
+function start{
+    let b=0;
+    a=setInterval(()=> 
+    ('start')
+    
+    )
+}
+
