@@ -1,4 +1,4 @@
-let ob = {
+/*let ob = {
     name: "sushil",
     age : 21,
     location:"mandideep",
@@ -28,6 +28,8 @@ console.log(ob.Bank);           //  ===    console.log(ob.name)and any other fun
 console.log(ob.Bank);
 console.log(ob.Bank.Nomnees);
 console.log(ob.Bank.Nomnees.Cybrom);
+
+*/
 
 
 

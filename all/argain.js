@@ -103,11 +103,11 @@
 // ================================================================
 
 
-let ar2 =["c","c++","python","js"]
-ar2.splice=(1,2,3,4,5);
-for (let value of ar2){
-        document.write(ar2);
-}
+// let ar2 =["c","c++","python","js"]
+// ar2.splice=(1,2,3,4,5);
+// for (let value of ar2){
+//         document.write(ar2);
+// }
 
 
 
