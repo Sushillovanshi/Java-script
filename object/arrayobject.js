@@ -47,25 +47,95 @@
 //     ============ // 10/4/2024   =========================
 
 
-let emp = [
+// let emp = [
+//     {
+//         name: "sushil",
+//         age: 21,
+//         status: "singal"
+//     },
+//     {
+//         name: "nitin",
+//         age: 24,
+//         stauts: "mingal"
+//     },
+//     {
+//         name: "nitin",
+//         age: 25,
+//         stauts: "mingal"
+//     },
+// ]
+// //  let p = emp.map((i)=>{return i.name})
+// //  console.log(p);
+
+// let m = emp.filter((t) => { return t.age > 21 && t.age< 25})
+// console.log(m);
+
+
+let student = [
     {
         name: "sushil",
-        age: 21,
-        status: "singal"
+        age: 10,
+        status: "singal",
+        roll:1
     },
     {
         name: "nitin",
-        age: 24,
-        stauts: "mingal"
+        age: 12,
+        roll:2,
+        place:"mandideep"
     },
     {
-        name: "nitin",
-        age: 25,
-        stauts: "mingal"
-    }
+        name: "suraj",
+        age: 13,
+        roll:3,
+        place:"mandideep"
+    },
+    {
+        name: "anil",
+        age: 14,
+        roll:4,
+        place:"mandideep"
+    },
+    {
+        name: "mukesh",
+        age: 15,
+        roll:5,
+        place:"mandideep"
+    },
+    {
+        name: "ayush",
+        age: 16,
+        roll:6,
+        place:"mandideep"
+    },
+    {
+        name: "neelam",
+        age: 17,
+        roll:7,
+        place:"mandideep"
+    },
+    {
+        name: "ayushi",
+        age: 18,
+        roll:8,
+        place:"mandideep"
+    },
+    {
+        name: "muskan",
+        age: 19,
+        roll:9,
+        place:"mandideep"
+    },
+    {
+        name: "saloni",
+        age: 20,
+        roll:10,
+        place:"mandideep"
+                
+    },
+    
+    
 ]
-//  let p = emp.map((i)=>{return i.name})
-//  console.log(p);
-
-let m = emp.filter((t) => { return t.age > 21 && t.age< 25})
-console.log(m);
+function fun(){
+        student.forEach((i)=> console.log(i.name));
+}
