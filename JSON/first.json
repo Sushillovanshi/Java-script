@@ -1,0 +1,54 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "name": "sushil",
+            "city": "bhopal"
+        },
+        {
+            "id": 2,
+            "name": "sushant",
+            "city": "M.P"
+        },
+        {
+            "id": 3,
+            "name": "Yug",
+            "city": "mandideep"
+        },
+        {
+            "id": 4,
+            "name": "mukesh",
+            "city": "bhopal"
+        },
+        {
+            "id":5,
+            "name": "Suraj",
+            "city": "bhopal"
+        },
+        {
+            "id":6,
+            "name": "Jhon",
+            "city": "bhopal"
+        },
+        {
+            "id":7,
+            "name": "muskan",
+            "city": "Goa"
+        },
+        {
+            "id":8,
+            "name": "Neelam",
+            "city": "mandideep"
+        },
+        {
+            "id":9,
+            "name": "Ayush",
+            "city": "bhopal"
+        },
+        {
+            "id":10,
+            "name": "ankit",
+            "city": "bhopal"
+        }
+    ]
+}
