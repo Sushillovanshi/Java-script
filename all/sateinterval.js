@@ -28,13 +28,13 @@
 
 // ====================================================================================
 
-let = a;
+// let = a;
 
-function start{
-    let b=0;
-    a=setInterval(()=> 
-    ('start')
+// function start{
+//     let b=0;
+//     a=setInterval(()=> 
+//     ('start')
     
-    )
-}
+//     )
+// }
 
