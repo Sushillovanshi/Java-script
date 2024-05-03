@@ -16,3 +16,13 @@ d.style.color="green"
 
 let im = document.getElementById("imm")
 im.src="img/IMG_5569.JPG"
+
+let a= document.getElementsByClassName("p1")
+console.log(a[0])
+let b= document.getElementsByTagName("span")
+console.log(b[0])
+
+
+document.body.style.backgroundColor="pink";
+
+let ul= document.getElementsBy("h")
