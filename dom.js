@@ -25,4 +25,4 @@ console.log(b[0])
 
 document.body.style.backgroundColor="pink";
 
-let ul= document.getElementsBy("h")
+
